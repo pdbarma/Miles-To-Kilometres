@@ -1,4 +1,4 @@
 # Miles-To-Kilometres
 
 ### Convert Miles to Kilometre - tkinter project.
-### Converted to exe file using pyinstaller.
+### Just Download and Run the python code in your choice of IDE
